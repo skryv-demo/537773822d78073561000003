@@ -1,1 +1,21 @@
-{}
+{
+    "patientgegevens": {
+        "geslacht": {},
+        "etniciteit_vader": {},
+        "etniciteit_moeder": {},
+        "jaar_van_datacollectie": 2014
+    },
+    "datacollectie": {
+        "puberteitprepuberteit": {},
+        "insulineschema": {},
+        "lengte": {},
+        "gewicht": {},
+        "systolische_bloeddruk": {},
+        "diastolische_bloeddruk": {},
+        "coeliakie": {},
+        "schildklierimmuniteit": {},
+        "retinopathie": {},
+        "nefropathie": {},
+        "datum_van_de_meest_recente_consultatie": "2014-04-29T22:00:00.000Z"
+    }
+}
